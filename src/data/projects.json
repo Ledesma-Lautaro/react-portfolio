@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Agile Flow",
+      "imageSrc": "projects/AgileFlow-logo.svg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Angular", "HTML", "Sass", "TypeScript"],
+      "demo": "https://entrega-final-lamansys.vercel.app/login",
+      "source": "https://github.com/Ledesma-Lautaro/entrega-final-Lamansys"
+    },
+    {
+      "title": "Nasa Games",
+      "imageSrc": "projects/logo.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML", "CSS", "JavaScript", "UX/UI"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

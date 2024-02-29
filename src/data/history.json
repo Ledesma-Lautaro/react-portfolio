@@ -1,0 +1,10 @@
+[
+    {
+        "role": "Cook",
+        "organisation" : "Comé Cabrón",
+        "startDate" : "June, 2021",
+        "endDate" : "November, 2022",
+        "experiences" : ["Teamwork","Remain calm under pressure","Communication","Customer service"],
+        "imageSrc" : "history/pan.svg"
+    }
+]

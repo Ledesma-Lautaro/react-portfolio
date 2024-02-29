@@ -1,0 +1,42 @@
+[
+    {
+        "title" : "HTML",
+        "imageSrc" : "skills/html.png"
+    },
+    {
+        "title" : "CSS",
+        "imageSrc" : "skills/css.png"
+    },
+    {
+        "title" : "Sass",
+        "imageSrc" : "skills/sass.png"
+    },
+    {
+        "title" : "JavaScript",
+        "imageSrc" : "skills/js.png"
+    },
+    {
+        "title" : "Angular",
+        "imageSrc" : "skills/angular.png"
+    },
+    {
+        "title" : "Java",
+        "imageSrc" : "skills/java.png"
+    },
+    {
+        "title" : "Springboot",
+        "imageSrc" : "skills/spring.png"
+    },
+    {
+        "title" : "TypeScript",
+        "imageSrc" : "skills/ts.png"
+    },
+    {
+        "title" : "React",
+        "imageSrc" : "skills/react.png"
+    },
+    {
+        "title" : "Figma",
+        "imageSrc" : "skills/figma.png"
+    }
+]

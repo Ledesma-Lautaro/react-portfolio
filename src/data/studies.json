@@ -1,0 +1,26 @@
+[
+  {
+    "camp": "UNICEN",
+    "degree": "IT Technician (TUDAI)",
+    "img" : "studies/unicen.png",
+    "startDate": "March 2021",
+    "endDate": "Today",
+    "description": "In this pregrade career, I was able to develop a solid base of knowledge in the field of computer science, which allowed me to continue my studies in the Systems Engineering career. I also had the opportunity to work on different projects, which allowed me to gain experience in the field."
+  },
+  {
+    "camp": "UNICEN",
+    "degree": "Systems Engineering",
+    "img" : "studies/unicen.png",
+    "startDate": "March 2024",
+    "endDate": "Today",
+    "description": "In this new career, I am acquiring more advanced knowledge in the field of computer science, which will allow me to continue growing in the field."
+  },
+  {
+    "camp": "Lamansys",
+    "degree": "Angular developer",
+    "img" : "studies/lamansys.jpg",
+    "startDate": "June 2023",
+    "endDate": "August 2023",
+    "description": "In this bootcamp, I was able to develop my skills as a frontend developer, learning the Angular framework."
+  }
+]
