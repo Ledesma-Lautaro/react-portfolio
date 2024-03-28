@@ -8,16 +8,28 @@
         "imageSrc" : "skills/css.png"
     },
     {
-        "title" : "Sass",
-        "imageSrc" : "skills/sass.png"
-    },
-    {
         "title" : "JavaScript",
         "imageSrc" : "skills/js.png"
     },
     {
+        "title" : "PHP",
+        "imageSrc" : "skills/php.png"
+    },
+    {
         "title" : "Angular",
         "imageSrc" : "skills/angular.png"
+    },
+    {
+        "title" : "TypeScript",
+        "imageSrc" : "skills/ts.png"
+    },
+    {
+        "title" : "NextJs",
+        "imageSrc" : "skills/next-js.svg"
+    },
+    {
+        "title" : "NodeJs",
+        "imageSrc" : "skills/node.png"
     },
     {
         "title" : "Java",
@@ -26,15 +38,25 @@
     {
         "title" : "Springboot",
         "imageSrc" : "skills/spring.png"
+    }, 
+    {
+        "title" : "MySql",
+        "imageSrc" : "skills/mysql.png"
     },
     {
-        "title" : "TypeScript",
-        "imageSrc" : "skills/ts.png"
+        "title" : "MongoDB",
+        "imageSrc" : "skills/mongo.png"
+    },
+    
+    {
+        "title" : "Git",
+        "imageSrc" : "skills/git.png"
     },
     {
-        "title" : "React",
-        "imageSrc" : "skills/react.png"
+        "title" : "Taiga",
+        "imageSrc" : "skills/taiga.png"
     },
+    
     {
         "title" : "Figma",
         "imageSrc" : "skills/figma.png"

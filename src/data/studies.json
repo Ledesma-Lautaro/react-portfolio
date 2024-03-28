@@ -5,7 +5,7 @@
     "img" : "studies/unicen.png",
     "startDate": "March 2021",
     "endDate": "Today",
-    "description": "In this pregrade career, I was able to develop a solid base of knowledge in the field of computer science, which allowed me to continue my studies in the Systems Engineering career. I also had the opportunity to work on different projects, which allowed me to gain experience in the field."
+    "description": "Web applications development, object oriented programming, web architecture, problem solving, databases, among others."
   },
   {
     "camp": "UNICEN",
@@ -21,6 +21,6 @@
     "img" : "studies/lamansys.jpg",
     "startDate": "June 2023",
     "endDate": "August 2023",
-    "description": "In this bootcamp, I was able to develop my skills as a frontend developer, learning the Angular framework."
+    "description": "Web application in Angular, development tracking in Taiga, among others."
   }
 ]
