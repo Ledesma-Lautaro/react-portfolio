@@ -6,5 +6,13 @@
       "skills": ["Angular", "HTML", "Sass", "TypeScript"],
       "demo": "https://agile-flow-virid.vercel.app/login",
       "source": "https://github.com/Ledesma-Lautaro/entrega-final-Lamansys"
+    },
+    {
+      "title": "Weather app",
+      "imageSrc": "projects/WeatherApp.svg",
+      "description": "This is a responsive project made in vanilla HTML, CSS and JS.",
+      "skills": ["HTML", "CSS", "JavaScript", "APIs"],
+      "demo": "https://vanilla-wheaterapp.vercel.app/#/current-location",
+      "source": "https://github.com/Ledesma-Lautaro/vanilla-wheaterapp"
     }
   ]
