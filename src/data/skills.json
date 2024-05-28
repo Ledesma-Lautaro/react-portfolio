@@ -28,10 +28,6 @@
         "imageSrc" : "skills/next-js.svg"
     },
     {
-        "title" : "NodeJs",
-        "imageSrc" : "skills/node.png"
-    },
-    {
         "title" : "Java",
         "imageSrc" : "skills/java.png"
     },
@@ -42,12 +38,7 @@
     {
         "title" : "MySql",
         "imageSrc" : "skills/mysql.png"
-    },
-    {
-        "title" : "MongoDB",
-        "imageSrc" : "skills/mongo.png"
-    },
-    
+    },  
     {
         "title" : "Git",
         "imageSrc" : "skills/git.png"
