@@ -32,8 +32,8 @@
         "imageSrc" : "skills/spring.png"
     }, 
     {
-        "title" : "MySql",
-        "imageSrc" : "skills/mysql.png"
+        "title" : "SQL",
+        "imageSrc" : "skills/SQL.png"
     },  
     {
         "title" : "Git",
