@@ -16,7 +16,6 @@ export const About = () => {
                             <p>My name is Lautaro Ledesma, I’m a twenty one years old passionate Full-Stack developer with a strong focus on Front-End development.
                                  I consider myself to be a proactive, sociable person with excellent teamwork skills. I have a great capacity for learning and I easily adapt
                                   to new environments and technologies. </p>
-                                  <p>I'm excited about the prospect of leveraging my skills and expertise to tackle new challenges and make meaningful contributions to innovative projects. I thrive in collaborative environments where I can share ideas, learn from others, and deliver exceptional results.</p>
                         </div>
                     </li>
                     

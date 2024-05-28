@@ -12,10 +12,6 @@
         "imageSrc" : "skills/js.png"
     },
     {
-        "title" : "PHP",
-        "imageSrc" : "skills/php.png"
-    },
-    {
         "title" : "Angular",
         "imageSrc" : "skills/angular.png"
     },

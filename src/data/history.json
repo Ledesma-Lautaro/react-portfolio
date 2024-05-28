@@ -1,10 +1,27 @@
 [
     {
+        "role": "Frontend Developer",
+        "organisation" : "at Accenture",
+        "startDate" : "August, 2023",
+        "endDate" : "January, 2024",
+        "experiences" : ["Agile methodologies","Time management", "Attention to detail"],
+        "imageSrc" : "history/accenture.png"
+    },
+    {
+        "role": "Fullstack developer",
+        "organisation" : "Freelancer",
+        "startDate" : "December, 2022",
+        "endDate" : "June, 2023",
+        "experiences" : ["Problem solving", "Adaptability and continuous Learning"],
+        "imageSrc" : "history/freelancer.svg"
+    },
+    {
         "role": "Cook",
-        "organisation" : "Comé Cabrón",
+        "organisation" : "at Comé Cabrón",
         "startDate" : "June, 2021",
         "endDate" : "November, 2022",
-        "experiences" : ["Teamwork","Remain calm under pressure","Communication","Customer service"],
+        "experiences" : ["Teamwork","Remain calm under pressure","Communication"],
         "imageSrc" : "history/pan.svg"
     }
+    
 ]
