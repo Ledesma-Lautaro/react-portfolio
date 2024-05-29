@@ -20,7 +20,7 @@
       "imageSrc": "projects/board.svg",
       "description": "This is a project made to learn Next.js and Tailwind CSS.",
       "skills": ["Next.js", "Tailwind", "React", "Convex", "Liveblocks", "Clerk"],
-      "demo": "react-board-jade.vercel.app",
+      "demo": "https://react-board-jade.vercel.app/",
       "source": "https://github.com/Ledesma-Lautaro/react-board"
     }
   ]
